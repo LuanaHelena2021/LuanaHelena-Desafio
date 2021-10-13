@@ -1,14 +1,12 @@
-# "Desafio do Login do Instagram By DIO("Digital Innovation One").
+
+![Desafio do Login do Instagram](Login%20do%20Instagram.png)
+
+##### Desafio do Login do Instagram by DIO - Digital Innovation One 
 
 
-Nesse projeto o desafio é reconstruir a página de login do Instagram. Para isso, é recomendado o uso de CSS com Flexbox, Responsividade. 
-
-* CSS com Flexbox 
-* Responsividade
-* Inserir Git / Github
+Flexbox , Css , HTML e Criatividade 
 
 
-
-
+Primeiro Projeto 
 
 
